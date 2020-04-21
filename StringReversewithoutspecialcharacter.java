@@ -6,7 +6,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*; 
-public class StringReverse
+public class StringReversewithoutspecialcharacter
 { 
         public static void reverse(char str[]) 
         { 
